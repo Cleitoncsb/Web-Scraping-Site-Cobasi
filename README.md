@@ -4,7 +4,7 @@
 ![Imagem1](https://github.com/Cleitoncsb/meu-Portfolio/assets/142935223/b9bf12f2-c1a3-46af-a8a8-b2fade673657)
 
 
- <h2> 📌 Overview   </h2>
+ <h2> 📌 Overview  - </h2>
  
  Este projeto exemplifica o uso eficaz da automação e do web scraping na era digital para simplificar e 
  acelerar a coleta de dados de sites, uma tarefa normalmente demorada e propensa a erros. <br>
@@ -12,12 +12,12 @@
  para extrair dados de forma eficiente e precisa, ele oferece aplicações práticas em diversos campos, desde análise de mercado até pesquisa 
  acadêmica, destacando-se pela eficiência na redução de tempo e erros, além de sua adaptabilidade para diferentes tipos de dados e sites.
 
-<h2> 🪒 Um pouco sobre Web Scraping </h2>
+<h2> 🪒 Um pouco sobre Web Scraping - </h2>
 
 Web scraping é uma técnica de automação para extrair dados de websites, empregando scripts para coletar informações de forma rápida e estruturada.<br>
 Por exemplo, pode ser usado por empresas de e-commerce para monitorar os preços dos concorrentes, ajustando suas próprias estratégias de preços e marketing com base nesses dados. 
 
-<h2> 📊 Resultados e Insigths </h2>
+<h2> 📊 Resultados </h2>
 O resultado do código acima, retorna um excel com 80 linhas sendo 40 linhas referente a cada uma das URLs contidas no código, sendo armazenadas 
 os campos referente ao produto e ao preço, chegando ao mesmo resultado desse arquivo (https://github.com/Cleitoncsb/Web-Scraping-Site-Cobasi/commit/72a7300da5aa24fc126e57f7aea54591b74ebcb8).<br>
 <br>
