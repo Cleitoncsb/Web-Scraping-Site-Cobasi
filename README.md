@@ -1,4 +1,4 @@
-<h1>Web Scraping Site Cobasi</h1>
+<h1> Web Scraping Site Cobasi </h1>
 
 
 ![Imagem1](https://github.com/Cleitoncsb/meu-Portfolio/assets/142935223/b9bf12f2-c1a3-46af-a8a8-b2fade673657)
@@ -12,12 +12,12 @@
  para extrair dados de forma eficiente e precisa, ele oferece aplicações práticas em diversos campos, desde análise de mercado até pesquisa 
  acadêmica, destacando-se pela eficiência na redução de tempo e erros, além de sua adaptabilidade para diferentes tipos de dados e sites.
 
-<h2> 🪒 Um pouco sobre Web Scraping</h2>
+<h2> 🪒 Um pouco sobre Web Scraping </h2>
 
 Web scraping é uma técnica de automação para extrair dados de websites, empregando scripts para coletar informações de forma rápida e estruturada.<br>
 Por exemplo, pode ser usado por empresas de e-commerce para monitorar os preços dos concorrentes, ajustando suas próprias estratégias de preços e marketing com base nesses dados. 
 
-<h2> 📊 Resultados e Insigths</h2>
+<h2> 📊 Resultados e Insigths </h2>
 O resultado do código acima, retorna um excel com 80 linhas sendo 40 linhas referente a cada uma das URLs contidas no código, sendo armazenadas 
 os campos referente ao produto e ao preço, chegando ao mesmo resultado desse arquivo (https://github.com/Cleitoncsb/Web-Scraping-Site-Cobasi/commit/72a7300da5aa24fc126e57f7aea54591b74ebcb8).<br>
 <br>
@@ -25,7 +25,7 @@ os campos referente ao produto e ao preço, chegando ao mesmo resultado desse ar
 ![Captura de Tela 2023-12-12 às 22 19 25](https://github.com/Cleitoncsb/Analise-de-Dados-de-uma-Cafeteria-com-Python/assets/142935223/cf4a7c5f-6d65-49a5-b907-faee89cc7470)
 <br>
 
-<h2>Sobre a Metodologia</h2>
+<h2> Sobre a Metodologia </h2>
 A aplicaçāo utilizada no código, segue os seguintes passos:<br>
 1. Inicialização do WebDriver do Safari: O código começa inicializando o Selenium WebDriver para o navegador Safari. 
 Este WebDriver age como um navegador automatizado que pode ser controlado pelo script. <br>
