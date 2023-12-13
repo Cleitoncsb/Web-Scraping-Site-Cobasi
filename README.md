@@ -29,11 +29,16 @@ os campos referente ao produto e ao preço, chegando ao mesmo resultado desse ar
 A aplicaçāo utilizada no código, segue os seguintes passos:<br>
 1. Inicialização do WebDriver do Safari: O código começa inicializando o Selenium WebDriver para o navegador Safari. 
 Este WebDriver age como um navegador automatizado que pode ser controlado pelo script. <br>
+<br>
 2. Acessar URLs e Coletar Dados: O código então percorre uma lista de URLs específicas (neste caso, páginas de produtos de um site de e-commerce). 
 Para cada URL, ele carrega a página e aguarda um tempo (5 segundos) para que todo o conteúdo, incluindo elementos gerados por JavaScript, seja carregado.<br>
+<br>
 3. Extração de Dados com BeautifulSoup: Após carregar a página, o código usa o BeautifulSoup para analisar o HTML da página. Ele procura por contêineres 
 específicos que contêm informações sobre produtos e preços, usando as classes CSS para identificá-los.<br>
+<br>
 4. Armazenamento dos Dados: Para cada contêiner encontrado, o código extrai o texto do nome do produto e do preço. Essas informações são armazenadas em um 
 dicionário e adicionadas a uma lista chamada produtos.<br>
+<br>
 5. Salvar Dados em Excel: Após coletar todos os dados necessários, o script converte a lista de dicionários em um DataFrame do Pandas e salva esses dados em um arquivo Excel.<br>
+<br>
 6. Encerramento do WebDriver: Por fim, o WebDriver é fechado para liberar recursos.<br>
