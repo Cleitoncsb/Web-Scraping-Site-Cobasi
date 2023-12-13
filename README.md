@@ -19,7 +19,7 @@ Por exemplo, pode ser usado por empresas de e-commerce para monitorar os preços
 
 <h2> 📊 Resultados e Insigths</h2>
 O resultado do código acima, retorna um excel com 80 linhas sendo 40 linhas referente a cada uma das URLs contidas no código, sendo armazenadas 
-os campos referente ao produto e ao preço.<br>
+os campos referente ao produto e ao preço, chegando ao mesmo resultado desse arquivo (https://l1nq.com/DyAlm).<br>
 <br>
 
 ![Captura de Tela 2023-12-12 às 22 19 25](https://github.com/Cleitoncsb/Analise-de-Dados-de-uma-Cafeteria-com-Python/assets/142935223/cf4a7c5f-6d65-49a5-b907-faee89cc7470)
